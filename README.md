@@ -1,7 +1,7 @@
 OOD.NET
 =======
 
-An embedded Object Oriented Database (OOD) was built in C# in 2004 for my graduation project. 
+An incomplete embedded Object Oriented Database (OOD) was built in C# in 2004 for my graduation project. 
 
 A paper was published in an ACM Conference in 2005. It is available in the root folder of the repository ([direct link (pdf)](https://github.com/luanzhu/OOD.NET/blob/master/OOD-Conference-Paper.pdf?raw=true)).
 
